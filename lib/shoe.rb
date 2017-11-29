@@ -9,9 +9,7 @@ class Shoe
 
   def cobble
     puts "the shoe has been repaired!"
-  end
-
-  def make_new
     @condition = "new"
   end
+
 end
